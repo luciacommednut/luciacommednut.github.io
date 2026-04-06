@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dra. Lucia Comes</title>
-    <link>https://luciacommednut.github.io/ca/tags/</link>
+    <link>http://luciacomesmediconutricionista.com/ca/tags/</link>
     <description>Recent content in Tags on Dra. Lucia Comes</description>
     <generator>Hugo</generator>
     <language>ca</language>
     <copyright>© {currentYear} Lucía, Janeta &amp; Xogori. All rights reserved.</copyright>
     <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://luciacommednut.github.io/ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://luciacomesmediconutricionista.com/ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obesitat</title>
-      <link>https://luciacommednut.github.io/ca/tags/obesitat/</link>
+      <link>http://luciacomesmediconutricionista.com/ca/tags/obesitat/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://luciacommednut.github.io/ca/tags/obesitat/</guid>
+      <guid>http://luciacomesmediconutricionista.com/ca/tags/obesitat/</guid>
       <description></description>
     </item>
     <item>
       <title>Tractament</title>
-      <link>https://luciacommednut.github.io/ca/tags/tractament/</link>
+      <link>http://luciacomesmediconutricionista.com/ca/tags/tractament/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://luciacommednut.github.io/ca/tags/tractament/</guid>
+      <guid>http://luciacomesmediconutricionista.com/ca/tags/tractament/</guid>
       <description></description>
     </item>
     <item>
       <title>Duis Neque</title>
-      <link>https://luciacommednut.github.io/ca/tags/duis-neque/</link>
+      <link>http://luciacomesmediconutricionista.com/ca/tags/duis-neque/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://luciacommednut.github.io/ca/tags/duis-neque/</guid>
+      <guid>http://luciacomesmediconutricionista.com/ca/tags/duis-neque/</guid>
       <description></description>
     </item>
     <item>
       <title>Ejemplo</title>
-      <link>https://luciacommednut.github.io/ca/tags/ejemplo/</link>
+      <link>http://luciacomesmediconutricionista.com/ca/tags/ejemplo/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://luciacommednut.github.io/ca/tags/ejemplo/</guid>
+      <guid>http://luciacomesmediconutricionista.com/ca/tags/ejemplo/</guid>
       <description></description>
     </item>
   </channel>

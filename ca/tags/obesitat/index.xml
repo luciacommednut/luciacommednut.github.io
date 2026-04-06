@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obesitat on Dra. Lucia Comes</title>
-    <link>https://luciacommednut.github.io/ca/tags/obesitat/</link>
+    <link>http://luciacomesmediconutricionista.com/ca/tags/obesitat/</link>
     <description>Recent content in Obesitat on Dra. Lucia Comes</description>
     <generator>Hugo</generator>
     <language>ca</language>
     <copyright>© {currentYear} Lucía, Janeta &amp; Xogori. All rights reserved.</copyright>
     <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://luciacommednut.github.io/ca/tags/obesitat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://luciacomesmediconutricionista.com/ca/tags/obesitat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semaglutida. Nou tractament per a l&#39;OBESITAT</title>
-      <link>https://luciacommednut.github.io/ca/posts/second/</link>
+      <link>http://luciacomesmediconutricionista.com/ca/posts/second/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://luciacommednut.github.io/ca/posts/second/</guid>
+      <guid>http://luciacomesmediconutricionista.com/ca/posts/second/</guid>
       <description>Novetats en el tractament de l&amp;rsquo;obesitat! &lt;strong&gt;Semaglutida&lt;/strong&gt;.</description>
     </item>
     <item>
       <title>Obesitat</title>
-      <link>https://luciacommednut.github.io/ca/posts/first/</link>
+      <link>http://luciacomesmediconutricionista.com/ca/posts/first/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://luciacommednut.github.io/ca/posts/first/</guid>
+      <guid>http://luciacomesmediconutricionista.com/ca/posts/first/</guid>
       <description>&lt;h1 id=&#34;parlem-sobre-lobesitat&#34;&gt;Parlem sobre l&amp;rsquo;OBESITAT&lt;/h1&gt;&#xA;&lt;p&gt;L&amp;rsquo;obesitat és una malatia crónica i hauria de tractar-se com qualsevol altra d&amp;rsquo;aquest tipus: en el marc d&amp;rsquo;una atenció multidisciplinària.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xD;&#xA;&lt;p&gt;L&amp;rsquo;obesitat està relacionada amb moltes altres malalties greus i s&amp;rsquo;associa a més de 200 tipus de complicacions que deriven d&amp;rsquo;ella.&#xA;l&amp;rsquo;Obesitat ha de tractar-se com una malaltia crònica per a així controlar el pes a llarg termini u aconseguir, en la mesura del possible una millora de les complicacions derivades.&lt;/p&gt;</description>
     </item>
   </channel>
